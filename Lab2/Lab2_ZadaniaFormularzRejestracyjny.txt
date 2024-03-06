@@ -1,0 +1,13 @@
+Formularz rejestracyjny w aplikacji webowej:
+	1. Mockup ekranu rejestracji
+	2. Baza danych użytkowników
+	3. Interfejs formularza: pozycje na email, hasło, dane opcjonalne
+	4. walidacja danych
+	5. System potwierdzania rejestracji mailem
+
+Głosowanie:
+	1: 8 average
+	2: 28 average
+	3: 40 average
+	4: 21 average
+	5: 15 average
