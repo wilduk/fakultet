@@ -1,0 +1,10 @@
+Definition of Done dla webaplikacji ocen restautracji:
+1. Intuicyjne działające ui
+2. Wyszukiwarka restautracji (mapa/search bar)
+3. Szczegóły restautracji
+4. Możliwość dokonania recenzji/oceny restautracji
+5. Możliwość wyświetlenia recenzji
+6. Możliwość zarządzania ocenamy (użytkownik swoją lub admin dla moderacji strony)
+7. (opcjonalnie) konta dla użytkowników strony
+8. Strona spełnia wymagania w sferze bezpieczeństwa np. przed włamaniami
+9. Strona przeszła dogłębne testy sprawdzające jej stabilność oraz kompatybilność z różnymi przeglądarkami

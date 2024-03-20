@@ -1,0 +1,10 @@
+Definition of Done dla Epic'u Loginu/rejestracji/recovery
+
+1. Możliwość utworzenia konta użytkownika
+2. Możliwość zalogowania na konto użytkownika
+3. Możliwość usunięcia konta użytkownika
+4. Możliwość modyfikacji danych użytkownika konta z panelu profilu
+5. Możliwość włączenia 2FA (np. email, telefon, aplikację authenticator)
+6. Możliwość odzyskania hasła przy użyciu e-maila lub numeru telefonu
+7. Zabezpieczenia przeciw przejęciu hasła (hashing przy logowaniu) oraz włamywania na konta użytkowników
+8. Wykonanie testów niezbędnych do gwarancji bezpieczeństwa użytkowników oraz strony
