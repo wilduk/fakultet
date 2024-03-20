@@ -1,0 +1,18 @@
+Użytkownik chce wysłać zdjęcie dla restauracji:
+	1. Na podstronie restauracji jest guzik *dodaj zdjęcia*
+	2. Użytkownik wybiera przycisk *dodaj zdjęcia*
+	3. Strona wyświetla okno oraz ma napisane "wybierz plik lub przerzuć"
+	4. Użytkownik wybiera w preferowany sposób zdjęcie z urządzenia i przekazuje stronie
+	5. Strona akceptuje maksymalnie 5 zdjęć, max 20mb
+	6. Użytkownik może zobaczyć swoje zdjęcia gotowe do wstawienia na stronę
+	7. Użytkownik akceptuje wstawienie zdjęcia
+	8. Strona dodaje zdjęcia do galerii restauracji
+
+Użytkownik chce odzyskać hasło:
+	1. Użytkownik w ustawieniach konta wybiera opcję *zmień hasło*
+	2. Strona wyświetla panel do zmiany hasła
+	3. Użytkownik podaje aktualne hasło, następnie nowe hasło oraz potwierdza nowe hasło
+	4. Hasło musi mieć minimalnie 8 znaków, w tym duża litera, cyfra i znak specjalny
+	5. Hasło jest sprawdzane przez stronę w celu uniknięcia szkodliwego kodu (np. SQL injection)
+	6. Poprawne hasło zostaje zatwierdzone, strona wyświetla komunikat akceptacji
+	7. Na e-mail zostaje wysłana wiadomość o zmienionym haśle.
