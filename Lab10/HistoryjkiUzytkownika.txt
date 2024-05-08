@@ -1,0 +1,8 @@
+Jako użytkownik chcę dodać zdjęcie by udostępnić je do galerii restauracji
+Jako użytkownik chcę zalogować się do serwisu by móc korzystać z funkcjonalności strony
+Jako użytkownik chcę dodać recenzję dla restauracji by udostępnić moją opinię na temat jej usług
+Jako użytkownik wpisuję tekst do wyszukiwarki strony w celu znalezienia pożądanej restauracji
+Jako użytkownik wybieram recencje restauracji by przeczytać o jakości usług restauracji
+Jako administrator wybieram nieodpowiednią recenzję w celu jej usunięcia
+Jako administrator chcę zaktualizować dane restauracji w celu naprawienia jej wyglądu na stronie
+Jako administrator chcę modyfikować galerię restauracji w celu usunięcia zbędnych zdjęć
